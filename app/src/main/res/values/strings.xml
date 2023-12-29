@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">suitmedia-app</string>
+    <string name="name_text">Name</string>
+    <string name="palindrome_text">Palindrome</string>
+    <string name="check_text">CHECK</string>
+    <string name="next_text">NEXT</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="choose_a_user_text">Choose a User</string>
+    <string name="selected_user_name_text">Selected User Name</string>
+    <string name="firstname_text">Firstname</string>
+    <string name="lastname_text">Lastname</string>
 </resources>
